@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header-title{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+}
+.header-content{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.map-img{
+    width: 400px;
+}
+.left-side{
+    margin-top: 30px;
+}
+.left-side h1{
+    font-weight: 600;
+    font-size: 30px;
+}
+.left-side p{
+    text-align: justify;
+    color: gray;
+}
+.details-btn{
+    padding: 10px 40px;
+    background-image: linear-gradient(green,red);
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+}
+.content-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.content-section h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.content-card{
+    display: flex;
+    justify-content: space-around;
+}
+.dhaka{
+    width: 25%;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+
+.dhaka p{
+    padding: 0 10px;
+    text-align: justify;
+    color: gray;
+}
+
+.card-img{
+    width: 380px;
+    height: 200px;
+}
+.content-btn{
+    border: none;
+    padding: 10px 30px;
+    background-color: cyan;
+   color: black;
+   font-weight: 600;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    margin-top: 30px;
+}
